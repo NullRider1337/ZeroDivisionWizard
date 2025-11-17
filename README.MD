@@ -25,5 +25,8 @@ python3 wizard.py 5 0
 python3 wizard.py --quantum 1 0
 # Ergebnis: Schrödingers Ergebnis: gleichzeitig unendlich und undefiniert.
 
-## Beispiele
-DISCLAIMER - This for a CTF Challange - Code is mock up
+##Kontakt
+@nullrider1337 Twitter/X
+nullrider1337(at)gmail.com
+
+## DISCLAIMER - This for a CTF Challange - Code is mock up
