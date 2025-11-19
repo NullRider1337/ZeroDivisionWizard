@@ -12,6 +12,7 @@ Natürlich ist es mathematisch unmöglich…
 - Enthält einen "Quantum Mode" (funktioniert nicht)
 - CLI Tool mit ASCII-Art
 - 99% nutzlos – 1% Unterhaltung
+- My buddies at the Beyond Breach Alliance use this every day!
 
 ## Beispiele
 
