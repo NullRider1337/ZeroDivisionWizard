@@ -29,5 +29,6 @@ python3 wizard.py --quantum 1 0
 ##Kontakt
 @nullrider1337 Twitter/X
 nullrider1337(at)gmail.com
+Mein Blog https://nullrider1337.blogspot.com/
 
 ## DISCLAIMER - This for a CTF Challange - Code is mock up
